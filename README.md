@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Aslam
 
 B.tech AI and Datascience (3rd year) @ Crescent University 
-<img align="right" width="320" height="240" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">                                            
+<img align="right" width="320" height="240" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">                                            
 - 🌱 I’m currently learning OpenCV and NLP
 - 👯 I’m looking to collaborate on ML/AI/DL
 - 🤔 I’m looking for help with internships in an company
