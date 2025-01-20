@@ -16,8 +16,8 @@ B.tech AI and Datascience (4th year) @ Crescent University
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
-<img width="48" height="48" src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" alt="power-bi-2021"/><img width="120" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" alt="power-bi-2021"/>
+<img width="48" height="48" src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" alt="power-bi-2021"/>
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
