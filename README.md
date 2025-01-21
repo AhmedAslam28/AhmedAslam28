@@ -4,7 +4,7 @@ B.tech AI and Datascience (4th year) @ Crescent University
 <img align="right" width="320" height="240" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">                                            
 - 🌱 I’m currently learning LLM and Generative AI
 - 🤝 I’m looking to collaborate on ML/AI/DL/Computer vision
-- 🤔 I’m looking for help with internships in an company
+- 🤔 I’m looking for a position in a company that matches my skills and enables me to make a meaningful contribution to its growth and success.
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmed-aslam-m-65546a268) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](2828aslam@gmail.com)
 - 😄 Pronouns: Techie
