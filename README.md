@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Aslam
 
-🎓 **B.Tech AI and Data Science (4th Year)** @ **Crescent University**  
+🎓 **B.Tech AI and Data Science ** @ **Crescent University**  
 📍 Chennai, Tamil Nadu  
 <img align="right" width="320" height="240" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">  
 
