@@ -50,17 +50,15 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 
 ### 🚀 Key Projects
 
-- 🧏‍♂️ **ISL Gesture Recognition & 3D Avatar** *(IEEE Published 🔗 https://ieeexplore.ieee.org/document/11041851)*
-- 
+🧏‍♂️ **ISL Gesture Recognition & 3D Avatar** *(IEEE Published 🔗 https://ieeexplore.ieee.org/document/11041851)*
   ➤ 94% accuracy with LSTM and MediaPipe  
   ➤ Real-time sign-to-speech and speech-to-sign via avatar
 
-- 🔍 **Homicide Prediction System** *(IEEE Published 🔗 https://ieeexplore.ieee.org/document/11052984)*
-- 
+🔍 **Homicide Prediction System** *(IEEE Published 🔗 https://ieeexplore.ieee.org/document/11052984)*
   ➤ Ensemble learning with XGBoost, CatBoost, ExtraTrees  
   ➤ Achieved 85.81% accuracy with geospatial-temporal analysis
 
-- 😊 **AI Emotion Recognition App**  
+😊 **AI Emotion Recognition App**  
   ➤ CNN-LSTM based prediction with Streamlit + FastAPI  
   ➤ Emotion-based book recs and AI chat with Google Gemini  
 
