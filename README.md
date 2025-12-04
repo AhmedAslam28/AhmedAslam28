@@ -1,26 +1,44 @@
 ## Hi there 👋 It's me Aslam
-
+# 👨‍💻 Ahmed Aslam M | AI Engineer | LLM & ML Specialist
 🎓 **B.Tech AI and Data Science ** @ **Crescent University**  
 📍 Chennai, Tamil Nadu  
 <img align="right" width="320" height="240" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">  
 
-- 🌱 Currently diving deep into **LLMs** and **Generative AI**
+I’m an AI Engineer specializing in **Agentic AI systems, LLM pipelines, Multimodal RAG, and Computer Vision deployments**.  
+I build **production-grade AI systems** that scale — from intelligent agents to cloud-based ML platforms.
+
+🔹 Passionate about **autonomous AI systems**  
+🔹 Strong in **system design + ML engineering**  
+🔹 Comfortable working from **model → API → Cloud → User**
 - 🤝 Open to collaborations in **ML / AI / DL / Computer Vision**
 - 💼 Looking for opportunities where I can contribute meaningfully to innovation and growth
 - 📫 Reach me at:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmed-aslam-m-65546a268)  
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:2828aslam@gmail.com)
 - 😄 Pronouns: Techie
+---
 
+## 🔥 Expertise Areas
+
+- 🧠 Agentic AI, OpenAI Assistants, Multi-Agent Systems
+- 🗂️ Retrieval-Augmented Generation (RAG)
+- 🎥 Multimodal AI (Text | Voice | Video)
+- 👁️ Computer Vision & OCR
+- ☁️ Cloud ML (AWS, GCP, GPU deployments)
+- 🛠️ MLOps & API Engineering
 ---
 
 ### 💼 Experience
 
 - **CV & ML Full Stack Developer Intern – HUM1AI (Remote)**  
-  ⚡ Built & deployed ML workflows on AWS EC2  
-  🤖 Integrated OpenAI Assistants & Agents for conversational AI  
-  🎨 Developed generative avatars from user photos  
-  🧠 Used LangChain, HuggingFace, Pinecone for contextual & vector workflows
+  🧠 Architected and deployed **multi-agent AI systems**
+  🔗 Built custom **MCP servers** for enterprise automation
+  📚 Designed **multimodal RAG pipelines** (text, video, audio)
+  ⚡ Built scalable APIs using **FastAPI & Flask**
+  ☁️ Optimized LLM infrastructure on **AWS EC2 & GPU cloud**
+  📞 Built **Twilio-based AI customer support agents**
+  🔐 Implemented **OAuth authentication** systems
+  🎤 Built AI avatars and speech interfaces using **ElevenLabs**
 
 - **AI & ML Engineer Intern – Tamizh (Govt. Startup)**  
   🕶️ Developed real-time object detection for smart specs  
@@ -32,17 +50,27 @@
 
 ### 🚀 Key Projects
 
-- 🧏‍♂️ **ISL Gesture Recognition & 3D Avatar** *(IEEE Accepted)*  
+- 🧏‍♂️ **ISL Gesture Recognition & 3D Avatar** *(IEEE Published)*  🔗 https://ieeexplore.ieee.org/document/11041851
   ➤ 94% accuracy with LSTM and MediaPipe  
   ➤ Real-time sign-to-speech and speech-to-sign via avatar
 
-- 🔍 **Homicide Prediction System** *(IEEE Accepted)*  
+- 🔍 **Homicide Prediction System** *(IEEE Published)*  🔗 https://ieeexplore.ieee.org/document/11052984
   ➤ Ensemble learning with XGBoost, CatBoost, ExtraTrees  
   ➤ Achieved 85.81% accuracy with geospatial-temporal analysis
 
 - 😊 **AI Emotion Recognition App**  
   ➤ CNN-LSTM based prediction with Streamlit + FastAPI  
   ➤ Emotion-based book recs and AI chat with Google Gemini  
+
+---
+
+## 🏅 Certifications
+
+- Amazon SageMaker JumpStart Foundations (AWS)
+- Introduction to Agentic AI on AWS
+- LangChain for LLM Development
+- OpenCV Bootcamp
+- Tata Forage — Data Science & Power BI
 
 ---
 
@@ -71,13 +99,6 @@
 <img width="48" height="48" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"/>
 <img width="80" height="50" src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png"/>
 
----
-
-### 🏅 Certifications
-- 🧠 LangChain for LLM Application Development  
-- 🔍 OpenCV Bootcamp + GUVI DevOps Webinar  
-- 📊 Tata Forage: Data Science & Power BI  
-- 🎤 IEEE & CII Conferences on AI and Innovation  
 
 ---
 
