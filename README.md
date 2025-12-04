@@ -50,7 +50,7 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 
 ### 🚀 Key Projects
 
-- 🧏‍♂️ **ISL Gesture Recognition & 3D Avatar** *(IEEE Published 🔗 https://ieeexplore.ieee.org/document/11041851)*
+- 🧏‍♂️ **ISL Gesture Recognition & 3D Avatar** *(IEEE Published 🔗 https://ieeexplore.ieee.org/document/11041851)*\n
   ➤ 94% accuracy with LSTM and MediaPipe  
   ➤ Real-time sign-to-speech and speech-to-sign via avatar
 
