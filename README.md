@@ -48,7 +48,7 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Publication Works
 
 🧏‍♂️ **ISL Gesture Recognition & 3D Avatar** *(IEEE Published 🔗 https://ieeexplore.ieee.org/document/11041851)*
 -
@@ -60,21 +60,21 @@ I build **production-grade AI systems** that scale — from intelligent agents t
   ➤ Ensemble learning with XGBoost, CatBoost, ExtraTrees  
   ➤ Achieved 85.81% accuracy with geospatial-temporal analysis
 
-😊 **AI Emotion Recognition App**  
--
-  ➤ CNN-LSTM based prediction with Streamlit + FastAPI  
-  ➤ Emotion-based book recs and AI chat with Google Gemini  
-
 ---
 
 ## 🏅 Certifications
 
-- Amazon SageMaker JumpStart Foundations (AWS)
-- Introduction to Agentic AI on AWS
-- LangChain for LLM Development
+- Generative AI Learning Plan for Model Builders — AWS Training & Certification
+- Building Language Models on AWS — AWS Training & Certification
+- Customizing & Evaluating LLMs using Amazon SageMaker JumpStart — AWS Training & Certification
+- Amazon SageMaker JumpStart Foundations — AWS Training & Certification
+- Introduction to Agentic AI on AWS — AWS Training & Certification
+- AWS AI & ML Scholars — Udacity & AWS
+- Serverless Agentic Workflows with Amazon Bedrock — DeepLearning.AI
+- Multi AI Agent Systems with crewAI — DeepLearning.AI
+- LangChain for LLM Application Development — DeepLearning.AI
 - OpenCV Bootcamp
 - Tata Forage — Data Science & Power BI
-
 ---
 
 ### 🧠 I Code In
