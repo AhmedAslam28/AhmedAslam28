@@ -33,7 +33,6 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 - **ML Full Stack Developer Intern – HUM1AI (Remote)**
 
   🧠 Architected and deployed **multi-agent AI systems**
-
   🔗 Built custom **MCP servers** for enterprise automation
 
   📚 Designed **multimodal RAG pipelines** (text, video, audio)
