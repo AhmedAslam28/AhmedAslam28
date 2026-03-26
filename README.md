@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Aslam
 # 👨‍💻 Ahmed Aslam M | AI Engineer | LLM & ML Specialist
-🎓 **B.Tech AI and Data Science** @ **Crescent University** Graduated /n
+🎓 **B.Tech AI and Data Science** @ **Crescent University** Graduated
 📍 Chennai, Tamil Nadu  
 <img align="right" width="320" height="240" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">  
 
