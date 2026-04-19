@@ -90,8 +90,6 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 <img height="50" src="https://img.icons8.com/fluency/48/r-project.png"/>
 <img height="50" src="https://img.icons8.com/color/48/pandas.png"/>
 </p>
----
-
 ### 🛠️ IDE and Tools I Use
 <div align="left" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
   <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
