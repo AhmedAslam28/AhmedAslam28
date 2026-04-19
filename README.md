@@ -93,16 +93,18 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 ---
 
 ### 🛠️ IDE and Tools I Use
-<p>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png"/>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"/>
-<img width="80" height="50" src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png"/>
-</p>
+### 🛠️ IDE and Tools I Use
+<div align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/anaconda.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/google-colab.png"/>
+  <img height="50" src="https://img.icons8.com/fluency/48/jupyter.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/power-bi-2021.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/github.png"/>
+  <img height="50" src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png"/>
+</div>
 
 
 ---
