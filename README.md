@@ -78,17 +78,7 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 ---
 
 ### 🧠 I Code In
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/r-project.png"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png"/>
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000"/>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/r-project.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png"/><img width="50" height="50" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000"/><img width="48" height="48" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000"/>
 
 ---
 
