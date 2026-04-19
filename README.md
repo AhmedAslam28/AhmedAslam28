@@ -93,8 +93,7 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 ---
 
 ### 🛠️ IDE and Tools I Use
-### 🛠️ IDE and Tools I Use
-<div align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
   <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
   <img height="50" src="https://img.icons8.com/dusk/64/anaconda.png"/>
   <img height="50" src="https://img.icons8.com/color/48/google-colab.png"/>
