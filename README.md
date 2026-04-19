@@ -105,9 +105,6 @@ I build **production-grade AI systems** that scale — from intelligent agents t
   <img height="50" src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png"/>
 </div>
 
-
----
-
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
