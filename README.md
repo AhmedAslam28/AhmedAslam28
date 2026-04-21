@@ -30,15 +30,15 @@ I build **production-grade AI systems** that scale — from intelligent agents t
 
 ### 💼 Experience
 
-- **ML Full Stack Developer Intern – HUM1AI (Remote)**
-  🧠 Architected and deployed **multi-agent AI systems**
-  🔗 Built custom **MCP servers** for enterprise automation
-  📚 Designed **multimodal RAG pipelines** (text, video, audio)
-  ⚡ Built scalable APIs using **FastAPI & Flask**
-  ☁️ Optimized LLM infrastructure on **AWS EC2 & GPU cloud**
-  📞 Built **Twilio-based AI customer support agents**
-  🔐 Implemented **OAuth authentication** systems
-  🎤 Built AI avatars and speech interfaces using **ElevenLabs**
+- **ML Full Stack Developer Intern – HUM1AI (Remote)**  
+- 🧠 Architected and deployed **multi-agent AI systems**  
+- 🔗 Built custom **MCP servers** for enterprise automation  
+- 📚 Designed **multimodal RAG pipelines** (text, video, audio)  
+- ⚡ Built scalable APIs using **FastAPI & Flask**  
+- ☁️ Optimized LLM infrastructure on **AWS EC2 & GPU cloud**  
+- 📞 Built **Twilio-based AI customer support agents**  
+- 🔐 Implemented **OAuth authentication** systems  
+- 🎤 Built AI avatars and speech interfaces using **ElevenLabs**
 
 - **AI & ML Engineer Intern – Tamizh (Govt. Startup)**  
   🕶️ Developed real-time object detection for smart specs  
